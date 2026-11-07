@@ -20,7 +20,8 @@ $ screenfetch
          `Y$$b.
             `"Y$b._
                 `""""
-
+```
+```bash
 $ cat skills.txt
 Python · C · C++
 
@@ -33,7 +34,8 @@ int main() {
 
     return 11;
 }
-
+```
+```bash
 $ cat life.yml
 homelabbing:
   - Configuring useless services:
