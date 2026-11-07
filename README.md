@@ -1,4 +1,4 @@
-```text
+```bash
 $ whoami
 NiCoChOc0 — Embedded Systems Engineering Student / Cybersecurity Engineer
 
@@ -69,8 +69,6 @@ astronomy:
   Astronomical image processing
   Telescope operation, including at the Haute-Provence Observatory
 ```
-
-
 
 <a>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=600&color={{accent}}&center=false&vCenter=true&width=700&lines=Luck is something you optimize;If you need a helping hand, you can find one at the end of your arm;reliability %2B optimiszation %2B security %2B reproducibility = interesting subject" alt="status" />
